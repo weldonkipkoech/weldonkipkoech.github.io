@@ -4,8 +4,8 @@ categories: [Tech & AI]
 tags: [Data science,Artificial Intelligence,Machine learning,Deep Learning]
 ---
 
-### *** Data science: The foundations ***<br>
-
+# ***Data science: The foundations***<br>
+<br>
 Data science is all about turning raw data into meaningful insights. It combines
 statistics, programming, and domain knowledge to analyze patterns, make predictions,
 and support decision-making. Data scientists work with tools like Python, R, SQL,
@@ -14,20 +14,23 @@ finance, healthcare, e-commerce, and transportation rely on data science to
 understand customer behavior, detect fraud, optimize operations, and forecast
 trends. Whether it’s building dashboards, performing exploratory analysis, or
 creating predictive models, data science is at the core of modern innovation.
+-----------------------------------------------------------------------------
+<br>
 <br>
 
-### *** Machine Learning ***
-
+# ***Machine Learning***<br>
+<br>
 Machine Learning (ML) is a branch of AI that enables computers to learn from dataand make predictions or decisions without being explicitly programmed.
 It uses algorithms like decision trees, regression, clustering, and neural networks to uncover patterns in data. ML powers features such as spam filters, recommendation engines, fraud detection, and personalized ads. The process involves datacollection, preprocessing, model training, and evaluation. 
 What makes ML powerful is its ability to improve with more data over time, driving automation and personalization across industries.
-
+---------------------------------------------------------------------------------------------------------------------------------
+<br>
 <br>
 ---
 
 
-### *** Artificial Intelligence *** <br>
-
+# ***Artificial Intelligence*** <br>
+<br>
 
       Artificial Intelligence (AI) focuses on creating systems that mimic human
       intelligence. It enables machines to perform tasks like understanding language,
@@ -37,13 +40,14 @@ What makes ML powerful is its ability to improve with more data over time, drivi
       Businesses use AI to automate workflows, enhance customer experiences, and
       increase efficiency. Unlike traditional programming, AI systems learn patterns
       rather than relying on hard-coded rules.
-
+------------------------------------------------------------------------------------------
+<br>
 <br>
 ---
 
 
-### *** Deep Learning *** <br>
-
+# ***Deep Learning*** <br>
+<br>
 
       Deep Learning is a specialized area of machine learning that uses neural networks
       with multiple layers to model complex patterns. It's effective for tasks like
@@ -53,5 +57,5 @@ What makes ML powerful is its ability to improve with more data over time, drivi
       unstructured data such as images, audio, and text. Unlike traditional ML models,
       it automatically extracts features rather than relying on manual input, making it
       influential in fields like healthcare, finance, robotics, and entertainment.
-
+-------------------------------------------------------------------------------------------
 ---
