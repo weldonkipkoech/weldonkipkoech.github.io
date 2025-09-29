@@ -18,7 +18,7 @@ creating predictive models, data science is at the core of modern innovation.
 <br>
 <br>
 
-<h2>MACHINE LEARNING</h2><br>
+<h1>MACHINE LEARNING</h1><br>
 <br>
 Machine Learning (ML) is a branch of AI that enables computers to learn from dataand make predictions or decisions without being explicitly programmed.
 It uses algorithms like decision trees, regression, clustering, and neural networks to uncover patterns in data. ML powers features such as spam filters, recommendation engines, fraud detection, and personalized ads. The process involves datacollection, preprocessing, model training, and evaluation. 
@@ -29,7 +29,7 @@ What makes ML powerful is its ability to improve with more data over time, drivi
 
 
 
-<h3>ARTIFICIAL INTELLIGENCE</h3><br>
+<h1>ARTIFICIAL INTELLIGENCE</h1><br>
 <br>
 
       Artificial Intelligence (AI) focuses on creating systems that mimic human
@@ -46,7 +46,7 @@ What makes ML powerful is its ability to improve with more data over time, drivi
 
 
 
-<h4>DEEP LEARNING</h4> <br>
+<h1>DEEP LEARNING</h1> <br>
 <br>
 
       Deep Learning is a specialized area of machine learning that uses neural networks
@@ -57,5 +57,4 @@ What makes ML powerful is its ability to improve with more data over time, drivi
       unstructured data such as images, audio, and text. Unlike traditional ML models,
       it automatically extracts features rather than relying on manual input, making it
       influential in fields like healthcare, finance, robotics, and entertainment.
--------------------------------------------------------------------------------------------
----
+
