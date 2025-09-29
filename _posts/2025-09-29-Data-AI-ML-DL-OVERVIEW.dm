@@ -6,16 +6,19 @@ tags: [Data science,Artificial Intelligence,Machine learning,Deep Learning]
 
 ## Data science: The foundations
 
-      Data science is all about turning raw data into meaningful insights. It combines
-      statistics, programming, and domain knowledge to analyze patterns, make predictions,
-      and support decision-making. Data scientists work with tools like Python, R, SQL,
-      and visualization libraries to clean, process, and analyze data. Industries like
-      finance, healthcare, e-commerce, and transportation rely on data science to
-      understand customer behavior, detect fraud, optimize operations, and forecast
-      trends. Whether it’s building dashboards, performing exploratory analysis, or
-      creating predictive models, data science is at the core of modern innovation.
+
+          Data science is all about turning raw data into meaningful insights. It combines
+          statistics, programming, and domain knowledge to analyze patterns, make predictions,
+          and support decision-making. Data scientists work with tools like Python, R, SQL,
+          and visualization libraries to clean, process, and analyze data. Industries like
+          finance, healthcare, e-commerce, and transportation rely on data science to
+          understand customer behavior, detect fraud, optimize operations, and forecast
+          trends. Whether it’s building dashboards, performing exploratory analysis, or
+          creating predictive models, data science is at the core of modern innovation.
+
 
 ## Machine Learning
+
 
       Machine Learning (ML) is a branch of AI that enables computers to learn from data
       and make predictions or decisions without being explicitly programmed. It uses
@@ -26,9 +29,12 @@ tags: [Data science,Artificial Intelligence,Machine learning,Deep Learning]
       is its ability to improve with more data over time, driving automation and
       personalization across industries.
 
+
 ---
 
+
 ## Artificial Intelligence
+
 
       Artificial Intelligence (AI) focuses on creating systems that mimic human
       intelligence. It enables machines to perform tasks like understanding language,
@@ -42,7 +48,9 @@ tags: [Data science,Artificial Intelligence,Machine learning,Deep Learning]
 
 ---
 
+
 ## Deep Learning
+
 
       Deep Learning is a specialized area of machine learning that uses neural networks
       with multiple layers to model complex patterns. It's effective for tasks like
