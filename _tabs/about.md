@@ -27,8 +27,7 @@ TOOLS
    🔹 Programming & Scripting:
      Python, R, SQL
                     
-   🔹 Data Analysis & Visualization:         
-     Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI, Tableau
+   🔹 Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI, Tableau       
                     
    🔹 Machine Learning & Deep Learning:
      Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost
