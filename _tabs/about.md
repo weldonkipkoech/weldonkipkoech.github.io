@@ -1,5 +1,5 @@
 ---
-title:ABOUT
+title: ABOUT
 icon: fas fa-user
 ---
 
