@@ -4,7 +4,7 @@ categories: [Tech & AI]
 tags: [Data science,Artificial Intelligence,Machine learning,Deep Learning]
 ---
 
-# **Data science: The foundations**<br>
+## **Data science: The foundations**<br>
 <br>
 Data science is all about turning raw data into meaningful insights. It combines
 statistics, programming, and domain knowledge to analyze patterns, make predictions,
@@ -18,7 +18,7 @@ creating predictive models, data science is at the core of modern innovation.
 <br>
 <br>
 
-# **Machine Learning**<br>
+## **Machine Learning**<br>
 <br>
 Machine Learning (ML) is a branch of AI that enables computers to learn from dataand make predictions or decisions without being explicitly programmed.
 It uses algorithms like decision trees, regression, clustering, and neural networks to uncover patterns in data. ML powers features such as spam filters, recommendation engines, fraud detection, and personalized ads. The process involves datacollection, preprocessing, model training, and evaluation. 
@@ -29,7 +29,7 @@ What makes ML powerful is its ability to improve with more data over time, drivi
 ---
 
 
-# **Artificial Intelligence** <br>
+## **Artificial Intelligence** <br>
 <br>
 
       Artificial Intelligence (AI) focuses on creating systems that mimic human
@@ -46,7 +46,7 @@ What makes ML powerful is its ability to improve with more data over time, drivi
 ---
 
 
-# **Deep Learning** <br>
+## **Deep Learning** <br>
 <br>
 
       Deep Learning is a specialized area of machine learning that uses neural networks
