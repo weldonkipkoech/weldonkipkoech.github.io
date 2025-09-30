@@ -3,7 +3,6 @@ title: ABOUT
 icon: fas fa-user
 ---
 
-</head>
 <body>
     <div class="about-section">
       <h2>👋 About Me</h2>
@@ -85,6 +84,5 @@ icon: fas fa-user
         </div>
       </div>
     </div>
-  </div>
 </body>
-</html>
+
