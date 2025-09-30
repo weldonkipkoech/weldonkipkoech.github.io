@@ -3,16 +3,7 @@ title: ABOUT
 icon: fas fa-user
 ---
 
-
-</head>
-<body>
-  <div class="about-container">
-    <div class="about-header">
-      <i class="fas fa-user"></i>
-      ABOUT
-    </div>
-    <div class="about-section">
-      <h2>👋 About Me</h2>
+  <h2>👋 About Me</h2>
       <p>
         I’m a passionate <span class="skill-label">Data Scientist</span> and <span class="skill-label">AI/ML Engineer</span> with hands-on experience in Deep Learning, software engineering, and data-driven problem solving.<br>
         I specialize in transforming raw data into intelligent systems that power insights, automation, and innovation.<br>
