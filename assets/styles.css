@@ -1,0 +1,105 @@
+/* Basic Reset & Typography */
+body {
+  margin: 0;
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  background: #16161a;
+  color: #fffffe;
+  line-height: 1.65;
+}
+
+header {
+  background: #242629;
+  padding: 2rem 0 1rem 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.8rem;
+  color: #eebbc3;
+  letter-spacing: 0.05em;
+}
+
+header p {
+  color: #7f5af0;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+nav a {
+  color: #eebbc3;
+  text-decoration: none;
+  margin: 0 12px;
+  font-weight: 500;
+  font-size: 1.1rem;
+  transition: color 0.2s;
+}
+
+nav a:hover {
+  color: #7f5af0;
+}
+
+.container {
+  margin: 2rem auto;
+  max-width: 700px;
+  background: #242629;
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 24px rgba(127, 90, 240, 0.09);
+}
+
+.section-title {
+  font-size: 1.3rem;
+  color: #eebbc3;
+  margin: 2rem 0 0.5rem 0;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.edu, .certs li, .achievements li {
+  margin-bottom: 0.75rem;
+}
+
+.certs, .achievements {
+  padding-left: 1.2rem;
+}
+
+.blog-link {
+  display: inline-block;
+  margin: 2rem 0 0 0;
+  padding: 0.7rem 1.3rem;
+  background: #7f5af0;
+  color: #fffffe;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.blog-link:hover {
+  background: #eebbc3;
+  color: #242629;
+}
+
+footer {
+  margin-top: 2rem;
+  background: transparent;
+  color: #888;
+  font-size: 0.95rem;
+}
+
+footer a {
+  color: #eebbc3;
+  text-decoration: none;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  .container {
+    padding: 1rem;
+    max-width: 98vw;
+  }
+  header h1 {
+    font-size: 2rem;
+  }
+}
