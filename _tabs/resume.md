@@ -16,7 +16,7 @@ title: "Here is my CV"
 
 ## <span style="color:#1E88E5;">Professional Summary</span>
 
-<span style="color:#424242;">
+<span style="color:#43A047;">
 Curious and solutions-driven data scientist with proven expertise in <b style="color:#43A047;">machine learning, analytics, and predictive modeling</b>. Adept at transforming complex datasets into actionable insights using <b style="color:#F4511E;">Python, Pandas, SQL</b>, and advanced visualization tools. Passionate about building intelligent, scalable, and impactful data solutions. Strong communicator skilled at bridging technical and non-technical audiences, with a keen interest in <b style="color:#8E24AA;">AI innovation</b>.
 </span>
 
