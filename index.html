@@ -1,41 +1,179 @@
----
-title: "Home"
-layout: "default"
-buttons:
-- name: "Projects"
-- name: "Contacts"
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Weldon Kipkoech | Data Scientist & AI Engineer</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700,400&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Montserrat', Arial, sans-serif;
+      background: linear-gradient(135deg, #f8fafc 0%, #cce3fa 100%);
+      margin: 0;
+      color: #232946;
+    }
+    header {
+      padding: 32px 0 16px 0;
+      text-align: center;
+      background: #232946;
+      color: #fff;
+    }
+    header h1 {
+      font-size: 2.8rem;
+      margin: 0;
+      letter-spacing: 2px;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+      color: #eebbc3;
+    }
+    nav {
+      margin: 24px 0;
+      text-align: center;
+    }
+    nav a {
+      background: #eebbc3;
+      color: #232946;
+      text-decoration: none;
+      padding: 12px 32px;
+      font-weight: bold;
+      border-radius: 24px;
+      margin: 0 10px;
+      transition: background 0.2s, color 0.2s;
+      box-shadow: 0 2px 6px rgba(34,41,70,0.08);
+    }
+    nav a:hover {
+      background: #232946;
+      color: #fff;
+    }
+    .container {
+      max-width: 900px;
+      margin: 32px auto;
+      padding: 0 24px;
+      background: #fff;
+      border-radius: 18px;
+      box-shadow: 0 4px 24px rgba(34,41,70,0.10);
+    }
+    section {
+      margin-bottom: 32px;
+    }
+    .section-title {
+      font-size: 1.4rem;
+      color: #232946;
+      border-bottom: 2px solid #eebbc3;
+      padding-bottom: 6px;
+      margin-bottom: 14px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    ul, .certs, .achievements {
+      padding-left: 16px;
+      margin: 0;
+      list-style: none;
+    }
+    .certs li, .achievements li {
+      margin-bottom: 8px;
+      position: relative;
+      padding-left: 18px;
+    }
+    .certs li::before, .achievements li::before {
+      content: "✓";
+      color: #eebbc3;
+      position: absolute;
+      left: 0;
+      font-weight: bold;
+    }
+    .edu {
+      font-size: 1.08rem;
+      margin-bottom: 10px;
+    }
+    .blog-link {
+      display: block;
+      text-align: center;
+      margin: 40px 0 24px 0;
+      font-size: 1.2rem;
+      color: #232946;
+      text-decoration: none;
+      background: #eebbc3;
+      border-radius: 18px;
+      padding: 16px 0;
+      font-weight: bold;
+      transition: background 0.2s, color 0.2s;
+      box-shadow: 0 2px 6px rgba(34,41,70,0.07);
+    }
+    .blog-link:hover {
+      background: #232946;
+      color: #fff;
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 2rem; }
+      .container { padding: 0 8px; }
+      nav a { padding: 10px 16px; }
+    }
+  </style>
+</head>
+<body>
 
-<h1>Welcome</h1>
+  <header>
+    <h1>Weldon Kipkoech</h1>
+    <p>Data Scientist & AI/ML Engineer | Deep Learning Specialist</p>
+    <nav>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+      <a href="/blog.html">Blog</a>
+    </nav>
+  </header>
 
-<br>
-  Hi! I’m a Data Scientist and AI/ML Engineer with a strong focus on Deep Learning,
-  analytics, and intelligent systems. I build AI-powered solutions, analyze data
-  end-to-end, and work with modern tools across Machine Learning, data engineering,
-  and deployment.
-<br>
+  <div class="container">
+    <section>
+      <div style="font-size:1.18rem; margin-bottom: 10px;">
+        Hi! I’m Weldon, passionate about building intelligent systems, creating end-to-end data solutions, and exploring the latest in AI & ML. I bring together strong skills in deep learning, analytics, and deployment, delivering impactful results for real-world challenges.
+      </div>
+    </section>
 
-<h2>EDUCATION</h2>
-<h3>Bachelor of Science in Information Technology -Taita Taveta University 2019 – 2023</h3>
+    <section>
+      <div class="section-title">Education</div>
+      <div class="edu">
+        <strong>Bachelor of Science, Information Technology</strong><br>
+        Taita Taveta University &mdash; <em>2019 – 2023</em>
+      </div>
+      <div class="edu">
+        <strong>Diploma, Data Science & AI</strong><br>
+        Techsavanna Software Institute &mdash; <em>2023</em>
+      </div>
+    </section>
 
-<h3>Diploma in Data Science & AI -Techsavanna software Institute  2023</h3>
-<br>
+    <section>
+      <div class="section-title">Certifications</div>
+      <ul class="certs">
+        <li>Data Science</li>
+        <li>Postgress - Simplilearn</li>
+        <li>Deep Learning Specialization – Coursera</li>
+        <li>IT Certificate</li>
+      </ul>
+    </section>
 
-<h2>CERTIFICATIONS</h2>
-Data Science<br>
-Postgress-Simplilearn<br>
-Deep Learning Specialization – Coursera<br>
-IT certificate<br>
+    <section>
+      <div class="section-title">Achievements</div>
+      <ul class="achievements">
+        <li>Built a customer churn prediction model with 92% accuracy</li>
+        <li>Top 10 finalist in a national AI hackathon</li>
+        <li>Published a GitHub project with 300+ stars</li>
+        <li>Developed a sentiment analysis app using NLP and Flask</li>
+      </ul>
+    </section>
 
+    <a class="blog-link" href="/blog.html">
+      Explore the Blog &rarr;
+    </a>
+  </div>
 
-<h2>ACHIEVEMENTS</h2>
-Built a customer churn prediction model with 92% accuracy<br>
-Top 10 finalist in a national AI hackathon<br>
-Published a project on GitHub with 300+ stars<br>
-Developed a sentiment analysis app using NLP and Flask<br>
-
-
-Explore the blog section to learn more about these topics!
+  <footer style="text-align:center; color:#888; padding:20px 0 10px 0; font-size:0.95rem;">
+    &copy; 2025 Weldon Kipkoech &middot; <a href="https://github.com/weldonkipkoech" style="color:#eebbc3;text-decoration:none;">GitHub</a>
+  </footer>
+</body>
+</html>!
 
 
 Explore the blog section to learn more about these topics!
