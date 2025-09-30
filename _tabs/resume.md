@@ -1,8 +1,9 @@
 ---
-layout: "default"
-title: "Here is my CV"
+layout: default
+title: "RESUME"
+icon: fas fa-briefcase
 ---
-<!-- WELDON KIPKOECH - Colorful Resume -->
+
 
 <div align="center" style="font-family:sans-serif;">
   <h1 style="color:#1E88E5;">Weldon Kipkoech</h1>
