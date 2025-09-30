@@ -2,7 +2,29 @@
 layout: "default"
 title: "Here is my CV"
 ---
+<link href="https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      background: rgba(34, 34, 59, 0.95);
+      color: #fff;
+      font-family: 'Bubblegum Sans', cursive;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+    }
 
+  .container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #1f1d3a;
+    border-radius: 18px;
+    box-shadow: 0 6px 32px rgba(44,30,92,0.22);
+    padding: 48px 32px;
+    font-size: 1.12rem;
+    line-height: 1.7;
+    }
 <div align="center" style="font-family:sans-serif;">
   <h1 style="color:#1E88E5;">Weldon Kipkoech</h1>
   <h3 style="color:#43A047;">Data Scientist</h3>
