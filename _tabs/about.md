@@ -5,10 +5,6 @@ icon: fas fa-user
 
 </head>
 <body>
-  <div class="about-container">
-    <div class="about-header">
-      <i class="fas fa-user"></i>
-    </div>
     <div class="about-section">
       <h2>👋 About Me</h2>
       <p>
