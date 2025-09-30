@@ -142,7 +142,6 @@ icon: fas fa-user
   <div class="about-container">
     <div class="about-header">
       <i class="fas fa-user"></i>
-      ABOUT
     </div>
     <div class="about-section">
       <h2>👋 About Me</h2>
