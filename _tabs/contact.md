@@ -5,7 +5,7 @@ icon: fas fa-phone
 ---
 
  <h1>"Let's Connect! 💫"</h1><br>
-### "I'm always excited to hear about new opportunities, collaborate on innovative projects, or simply chat about technology."
+<h2>"I'm always excited to hear about new opportunities, collaborate on innovative projects, or simply chat about technology."</h2>
 <div class="colorful-container">
       <div class="section-title">🔗 Connect With Me</div>
       <div class="contact-links">
