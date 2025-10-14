@@ -7,7 +7,7 @@ icon: fas fa-rocket
 
 <!-- Titanic Project -->
 <div class="project-container">
-  <div class="project-title">📊 Exploratory Titanic Dataset EDA</div>
+  <div class="project-title"><h1>📊 Exploratory Titanic Dataset EDA</h1></div>
 
   <span class="section-label">🔹 Tech Stack:</span>
 <div class="tech-stack">
@@ -31,7 +31,7 @@ icon: fas fa-rocket
 
 <!-- Hotel Dashboard Project -->
 <div class="project-container">
-  <div class="project-title">🏨 Hotel Performance Analytics Dashboard</div>
+  <div class="project-title"><h1>🏨 Hotel Performance Analytics Dashboard</h1></div>
 
   <span class="section-label">🔹 Tech Stack:</span>
   <div class="tech-stack">
