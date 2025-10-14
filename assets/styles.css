@@ -27,11 +27,12 @@ h1, h2, h3 {
 }
 
 .tech-stack img {
-  width: 22px;
+  width: 16px;       /* Reduced from 22px */
   vertical-align: middle;
   margin-right: 6px;
   filter: brightness(0.9);
 }
+
 
 a {
   color: #4da3ff;
