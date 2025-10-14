@@ -9,9 +9,18 @@ icon: fas fa-phone
 <div class="colorful-container">
       <div class="section-title">🔗 Connect With Me</div>
       <div class="contact-links">
-        <a href="mailto:weldonkipkoech@email.com" width"200">Email</a><br>
-        <a href="https://github.com/weldonkipkoech" width"200" target="_blank">GitHub</a><br>
-        <a href="https://www.kaggle.com/weldonsitienei" width"200" target="_blank">Kaggle</a>
-      </div>
+<a href="mailto:weldonkipkoech@email.com" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" width="40">
+</a>
+
+<a href="https://github.com/weldonkipkoech" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" width="40">
+</a>
+
+<a href="https://www.kaggle.com/weldonsitienei" target="_blank">
+  <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width="40">
+</a>
+
+  </div>
 <br>
 Thank You ,Looking forward to your response<br>
