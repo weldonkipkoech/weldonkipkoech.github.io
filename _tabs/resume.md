@@ -5,7 +5,7 @@ icon: fas fa-briefcase
 ---
 
 
-<div align="center" style="font-family:sans-serif;">
+<div  style="font-family:sans-serif;">
   <h1 style="color:#1E88E5;">Weldon Kipkoech</h1>
   <h3 style="color:#43A047;">Data Scientist</h3>
   <p>
