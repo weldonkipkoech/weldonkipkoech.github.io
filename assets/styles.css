@@ -372,19 +372,24 @@
     }
 
     /* Decorative gradient lines */
-    .card:after{
-      content:'';
-      position:absolute;
-      right:-100px;
-      top:-50px;
-      width:240px;
-      height:240px;
-      background: radial-gradient(circle at 30% 20%, rgba(108,140,255,0.06), transparent 25%),
-                  radial-gradient(circle at 70% 80%, rgba(0,224,192,0.04), transparent 20%);
-      transform:rotate(20deg);
-      filter: blur(22px);
-      pointer-events:none;
-    }
+.card {
+  background: linear-gradient(
+    to bottom right,
+    rgba(0, 0, 0, 0.4),
+    rgba(0, 0, 0, 0.25)
+  );
+  border: 1px solid #0f1115;   /* deeper than #21262d */
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.75);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.95);
+}
+
 
 body {
   background-color: #0f0f0f;
