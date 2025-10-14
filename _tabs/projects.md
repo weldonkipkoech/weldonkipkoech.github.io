@@ -18,8 +18,16 @@ icon: fas fa-Hammer and Wrench
 <details>
   <summary><b>🏨 Hotel Performance Analytics Dashboard</b></summary>
 
-- **Tech Stack:** Power BI, DAX, Power Query  
-- **Description:** A visually rich dashboard analyzing hotel revenue, occupancy, performance metrics, and operational KPIs for multiple luxury properties. Includes insights on ADR, RevPAR, cancellations, and realization rates.  
-- **Repo / Demo:** *(Add link if available)*  
-- **Download:** `Hotel_Dashboard.pbix`
+🔹 **Tech Stack:** Power BI, DAX, Power Query  
+🔹 **Focus:** Revenue, Occupancy, Property KPIs  
+🔹 **Download:** `Hotel_Dashboard.pbix`
+
+**📈 Key Highlights:**
+- 1.68B+ revenue analysis
+- ADR: 12,696 | RevPAR: 7,337
+- Occupancy: 57.79%
+- Property-wise performance comparisons
+
+**⭐ Metrics Covered:** ADR, RevPAR, DBRN, DSRN, DURN, Cancellation & Realization Rates
+
 </details>
