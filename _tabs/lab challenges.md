@@ -13,7 +13,7 @@ icon: fas fa-flask
     </header>
 
 <section class="grid" aria-label="Top 3 lab challenges">
-<article class="card2" aria-labelledby="eda-title">
+<article class="colorful-container" aria-labelledby="eda-title">
         <div class="head">
           <div class="icon-circle">🧭</div>
           <div>
@@ -44,7 +44,7 @@ icon: fas fa-flask
 </article>
 
 
-<article class="card2" aria-labelledby="predictive-title">
+<article class="colorful-container" aria-labelledby="predictive-title">
         <div class="head">
           <div class="icon-circle">🤖</div>
           <div>
@@ -73,7 +73,7 @@ icon: fas fa-flask
  </article>
 
 
-<article class="card2" aria-labelledby="dashboard-title">
+<article class="colorful-container" aria-labelledby="dashboard-title">
         <div class="head">
           <div class="icon-circle">📊</div>
           <div>
