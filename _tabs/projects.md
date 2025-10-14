@@ -15,7 +15,7 @@ icon: fas fa-Hammer and Wrench
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="26"/> Seaborn  
 
 Description: Performed in-depth analysis of the Titanic dataset to uncover survival trends based on gender, class, and age. Created visualizations and derived insights.  <br>
-Repo / Demo: https://github.com/weldonkipkoech/titanic-eda  
+Repo / Demo: https://www.kaggle.com/code/weldonsitienei/weldon-kipkoech-eda
 </details>
 
 <details>
