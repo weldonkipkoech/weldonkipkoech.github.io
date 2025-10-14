@@ -15,7 +15,6 @@ Tech Stack:<br>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/>  <br>
 Performed in-depth analysis of the Titanic dataset to uncover survival trends based on gender, class, and age. Created visualizations and derived insights. <br>
 Repo / Demo: https://github.com/weldonkipkoech/Titanic-Exploratory-Data-Analysis-kaggle-project
- <br> <br> 
 </details>
 
 <details>
