@@ -7,7 +7,7 @@ icon: "fas fa-rocket"
 ### 🚀 Projects
 
 <details>
-  <summary><b>📊 Exploratory Titanic Dataset EDA</b></summary>
+  📊 Exploratory Titanic Dataset EDA
 
 **🔹 Tech Stack:** <br>
 <img src="https://www.python.org/static/community_logos/python-logo.png" width="26"/> Python  
@@ -18,12 +18,12 @@ icon: "fas fa-rocket"
 **📝 Description:** <br>
 Performed in-depth analysis of the Titanic dataset to uncover survival trends based on gender, class, and age. Created visualizations and derived insights.  <br>
 
-**🔗 Repo / Demo:** <br>
+**🔗 Repo / Demo:**
 [🌐 View on Kaggle](https://www.kaggle.com/code/weldonsitienei/weldon-kipkoech-eda)
 </details>
 
 <details>
-  <summary><b>🏨 Hotel Performance Analytics Dashboard</b></summary>
+🏨 Hotel Performance Analytics Dashboard
 
 **🔹 Tech Stack:** <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="26"/> Power BI  <br>
