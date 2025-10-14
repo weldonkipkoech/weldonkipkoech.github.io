@@ -38,19 +38,19 @@
     gap: 20px;
   }
 
-  .card {
-    background: #161b22;
-    border: 1px solid #30363d;
-    border-radius: 12px;
-    padding: 18px;
-    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.5);
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
-  }
+.card {
+  background: #0d1117;           /* Darker background */
+  border: 1px solid #21262d;     /* Slightly darker border */
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.6);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
 
-  .card:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
-  }
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+}
 
   .head {
     display: flex;
