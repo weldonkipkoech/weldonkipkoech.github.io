@@ -103,5 +103,5 @@ icon: fas fa-flask
 
 <div class="footer-note">
       <a class="btn ghost" href="#" title="Start Challenge">Start Challenge</a>
-    </div>
+
   </div>
