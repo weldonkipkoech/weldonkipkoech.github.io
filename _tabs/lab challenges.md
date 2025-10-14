@@ -39,7 +39,7 @@ icon: fas fa-flask
           <div class="kpi">📈 <strong>Visual Insights</strong></div>
           <div class="kpi">📝 <strong>Report</strong></div>
         </div>
-
+</div>
 
 </article>
 <div class="colorful-container" >
@@ -69,7 +69,7 @@ icon: fas fa-flask
           <div class="kpi">📊 <strong>Modeling</strong></div>
           <div class="kpi">📐 <strong>Evaluation</strong></div>
         </div>
-
+</div>
  </article>
 
 <div class="colorful-container" >
@@ -96,11 +96,10 @@ icon: fas fa-flask
           <div class="kpi">🏨 <strong>KPIs & Trends</strong></div>
           <div class="kpi">🔎 <strong>Drill-downs</strong></div>
           <div class="kpi">📁 <strong>PBIX / Dashboard</strong></div>
-        </div>
+        </div></div>
 
  </article>
 
- </section>
 
 <div class="footer-note">
       <a class="btn ghost" href="#" title="Start Challenge">Start Challenge</a>
