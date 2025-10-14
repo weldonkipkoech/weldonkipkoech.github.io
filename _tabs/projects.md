@@ -5,8 +5,8 @@ icon: fas fa-Hammer and Wrench
 ---
 ###  Projects
 
-
-  <h1>Exploratory Titanic Dataset EDA</h1> <br>
+<details>
+  <summary><h1><b>Exploratory Titanic Dataset EDA</b></h1></summary>
 
 Tech Stack:<br>
 <img src="https://www.python.org/static/community_logos/python-logo.png" width="40"/> 
@@ -16,9 +16,10 @@ Tech Stack:<br>
 Performed in-depth analysis of the Titanic dataset to uncover survival trends based on gender, class, and age. Created visualizations and derived insights. <br>
 Repo / Demo: https://github.com/weldonkipkoech/Titanic-Exploratory-Data-Analysis-kaggle-project
  <br> <br> 
+</details>
 
-
-  <h1>🏨 Hotel Performance Analytics Dashboard</h1><br>
+<details>
+  <summary><b><h1>🏨 Hotel Performance Analytics Dashboard<h1></b></summary>
 
 🔹 Tech Stack:  <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/> 
@@ -33,4 +34,4 @@ Repo / Demo: https://github.com/weldonkipkoech/Titanic-Exploratory-Data-Analysis
 - Property-wise performance comparisons<br>
 
 ⭐ Metrics Covered: ADR, RevPAR, DBRN, DSRN, DURN, Cancellation & Realization Rates
-
+</details>
