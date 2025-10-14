@@ -40,11 +40,8 @@ icon: fas fa-flask
           <div class="kpi">📝 <strong>Report</strong></div>
         </div>
 
- <div class="actions">
-          <a class="btn" href="#" title="Start EDA project">Start EDA</a>
-          <a class="btn ghost" href="#" title="See EDA template">Template</a>
-        </div>
-      </article>
+
+</article>
 
 
 <article class="card" aria-labelledby="predictive-title">
@@ -73,11 +70,7 @@ icon: fas fa-flask
           <div class="kpi">📐 <strong>Evaluation</strong></div>
         </div>
 
- <div class="actions">
-          <a class="btn" href="#" title="Start Predictive Modeling project">Start Model</a>
-          <a class="btn ghost" href="#" title="Model checklist">Checklist</a>
-        </div>
-      </article>
+ </article>
 
 
 <article class="card" aria-labelledby="dashboard-title">
@@ -105,13 +98,11 @@ icon: fas fa-flask
           <div class="kpi">📁 <strong>PBIX / Dashboard</strong></div>
         </div>
 
-<div class="actions">
-        </div>
-      </article>
+ </article>
 
  </section>
 
 <div class="footer-note">
-      <a class="btn ghost" href="#" title="Start Challenge">Checklist</a>
+      <a class="btn ghost" href="#" title="Start Challenge">Start Challenge</a>
     </div>
   </div>
