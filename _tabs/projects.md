@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PROJECTS"
-icon: "fas fa-rocket"
+icon: "fas fa-briefcase"
 ---
 
 ### 🚀 Projects
@@ -26,8 +26,8 @@ Repo / Demo: https://www.kaggle.com/code/weldonsitienei/weldon-kipkoech-eda
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="26"/> Power BI  <br>
 
 Description: A visually rich dashboard analyzing hotel revenue, occupancy, performance metrics, and operational KPIs for multiple luxury properties. Includes insights on ADR, RevPAR, cancellations, and realization rates.  <br>
-Repo / Demo: *(Add link if available)*  
-Download: `Hotel_Dashboard.pbix`<br>
+Repo / Demo: https://www.kaggle.com/code/weldonsitienei/Business-Intelligence_POWER-BI
+Download: https://drive.google.com/file/d/1LxvqWB4g5RawkIOVFaLrMnh07KIFDw0N/view?usp=drive_link <br>
 ⭐ **Metrics Covered:** ADR, RevPAR, DBRN, DSRN, DURN, Cancellation & Realization Rates
 
 Key Features:<br>
