@@ -11,7 +11,6 @@ icon: fas fa-Hammer and Wrench
 - **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
 - **Description:** Performed in-depth analysis of the Titanic dataset to uncover survival trends based on gender, class, and age. Created visualizations and derived insights.  
 - **Repo / Demo:** https://github.com/weldonkipkoech/titanic-eda  
-- **Portfolio:** https://weldonkipkoech.github.io/
 </details>
 
 
