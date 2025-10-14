@@ -24,10 +24,10 @@ icon: fas fa-flask
         </div>
 
 <div class="tech" aria-hidden="false">
-          <div class="tag tech-item"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python"/> Python</div>
-          <div class="tag tech-item"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas"/> Pandas</div>
-          <div class="tag tech-item"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib"/> Matplotlib</div>
-          <div class="tag tech-item"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn"/> Seaborn</div>
+          <div class="tag tech-item"><img src="https://www.python.org/static/community_logos/python-logo.png" width="100" alt="Python"/> Python</div>
+          <div class="tag tech-item"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100" alt="Pandas"/> Pandas</div>
+          <div class="tag tech-item"><img src="https://matplotlib.org/_static/images/logo2.svg" width="100" alt="Matplotlib"/> Matplotlib</div>
+          <div class="tag tech-item"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" alt="Seaborn"/> Seaborn</div>
         </div>
 
 <p class="desc">
@@ -58,9 +58,9 @@ icon: fas fa-flask
         </div>
 
 <div class="tech">
-          <div class="tag tech-item"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python"/> Python</div>
-          <div class="tag tech-item"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"/> scikit-learn</div>
-          <div class="tag tech-item"><img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas"/> Pandas</div>
+          <div class="tag tech-item"><img src="https://www.python.org/static/community_logos/python-logo.png" width="100" alt="Python"/> Python</div>
+          <div class="tag tech-item"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="100"  alt="scikit-learn"/> scikit-learn</div>
+          <div class="tag tech-item"><img src="https://pandas.pydata.org/static/img/pandas.svg" width="100" alt="pandas"/> Pandas</div>
         </div>
 
 <p class="desc">
@@ -91,8 +91,8 @@ icon: fas fa-flask
         </div>
 
 <div class="tech">
-          <div class="tag tech-item"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"/> Power BI</div>
-          <div class="tag tech-item"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Viz"/> Visualization</div>
+          <div class="tag tech-item"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="100" alt="Power BI"/> Power BI</div>
+          <div class="tag tech-item"><img src="https://matplotlib.org/_static/images/logo2.svg" width="100" alt="Viz"/> Visualization</div>
         </div>
 
 <p class="desc">
@@ -107,8 +107,6 @@ icon: fas fa-flask
         </div>
 
 <div class="actions">
-          <a class="btn" href="#" title="Start Dashboard project">Start Dashboard</a>
-          <a class="btn ghost" href="#" title="Dashboard tips">Tips & Tricks</a>
         </div>
       </article>
 
