@@ -28,8 +28,6 @@ icon: fas fa-Hammer and Wrench
 <br>
 ### Description: A visually rich dashboard analyzing hotel revenue, occupancy, performance metrics, and operational KPIs for multiple luxury properties. Includes insights on ADR, RevPAR, cancellations, and realization rates.  <br>
 ### Repo / Demo: *(Add link if available)*  
-### Download:`Hotel_Dashboard.pbix`
-</details>
-
+### Download:`Hotel_Dashboard.pbix`<br>
 ⭐ Metrics Covered: ADR, RevPAR, DBRN, DSRN, DURN, Cancellation & Realization Rates
 </details>
