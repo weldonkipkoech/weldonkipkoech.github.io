@@ -5,20 +5,19 @@ icon: fas fa-flask
 ---
   <div class="wrap" role="main">
     <header>
-      <div class="brand">DS</div>
+      <div class="brand">Data Science</div>
       <div>
         <h1>Lab Challenges — Top 3</h1>
-        <p class="lead">Practical, portfolio-ready tasks to demonstrate your data science skills end-to-end.</p>
+        <p class="lead">Practical data science skills end-to-end.</p>
       </div>
     </header>
 
 <section class="grid" aria-label="Top 3 lab challenges">
-     <!-- Card 1: EDA -->
 <article class="card" aria-labelledby="eda-title">
         <div class="head">
           <div class="icon-circle">🧭</div>
           <div>
-            <h2 id="eda-title" class="card-title">Exploratory Data Analysis (EDA)</h2>
+            <h2 id="eda-title" class="card-title">1.Exploratory Data Analysis (EDA)</h2>
             <div class="chip">Discover • Clean • Visualize</div>
           </div>
         </div>
@@ -47,12 +46,12 @@ icon: fas fa-flask
         </div>
       </article>
 
- <!-- Card 2: Predictive Modeling -->
+
 <article class="card" aria-labelledby="predictive-title">
         <div class="head">
           <div class="icon-circle">🤖</div>
           <div>
-            <h2 id="predictive-title" class="card-title">Predictive Modeling</h2>
+            <h2 id="predictive-title" class="card-title">2.Predictive Modeling</h2>
             <div class="chip">Feature engineering • Modeling • Eval</div>
           </div>
         </div>
@@ -80,12 +79,12 @@ icon: fas fa-flask
         </div>
       </article>
 
-      <!-- Card 3: Dashboarding & BI -->
+
 <article class="card" aria-labelledby="dashboard-title">
         <div class="head">
           <div class="icon-circle">📊</div>
           <div>
-            <h2 id="dashboard-title" class="card-title">Dashboarding & BI</h2>
+            <h2 id="dashboard-title" class="card-title">3.Dashboarding & BI</h2>
             <div class="chip">Power BI • Dashboards • Storytelling</div>
           </div>
         </div>
