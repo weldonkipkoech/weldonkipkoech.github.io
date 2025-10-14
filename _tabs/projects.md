@@ -22,9 +22,7 @@ Repo / Demo: https://www.kaggle.com/code/weldonsitienei/weldon-kipkoech-eda
   <summary><b>🏨 Hotel Performance Analytics Dashboard</b></summary>
 
 🔹Tech Stack:<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="26"/> Power BI  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" width="26"/> DAX  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Microsoft_Office_Power_Query_logo.svg" width="26"/> Power Query  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="26"/> Power BI    
 <br>
  Description: A visually rich dashboard analyzing hotel revenue, occupancy, performance metrics, and operational KPIs for multiple luxury properties. Includes insights on ADR, RevPAR, cancellations, and realization rates.  <br>
  Repo / Demo: *(Add link if available)*  
