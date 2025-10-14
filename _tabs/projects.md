@@ -10,12 +10,12 @@ icon: fas fa-rocket
   <div class="project-title">📊 Exploratory Titanic Dataset EDA</div>
 
   <span class="section-label">🔹 Tech Stack:</span>
-  <div class="tech-stack">
-    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python logo"/> Python
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas logo"/> Pandas
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib logo"/> Matplotlib
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn logo"/> Seaborn
-  </div>
+<div class="tech-stack">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="20" alt="Python logo"/> Python
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="20" alt="Pandas logo"/> Pandas
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="20" alt="Matplotlib logo"/> Matplotlib
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="20" alt="Seaborn logo"/> Seaborn
+</div>
 
   <span class="section-label">📝 Description:</span>
   <p>
