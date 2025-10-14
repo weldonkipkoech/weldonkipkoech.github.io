@@ -14,7 +14,7 @@ Tech Stack:<br>
 <img src="https://matplotlib.org/_static/images/logo2.svg" width="40"/> 
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/>  <br>
 Performed in-depth analysis of the Titanic dataset to uncover survival trends based on gender, class, and age. Created visualizations and derived insights. <br>
-Repo / Demo: https://github.com/weldonkipkoech/titanic-eda  
+Repo / Demo: https://github.com/weldonkipkoech/Titanic-Exploratory-Data-Analysis-kaggle-project
  <br> <br> 
 
 
@@ -22,8 +22,6 @@ Repo / Demo: https://github.com/weldonkipkoech/titanic-eda
 
 🔹 Tech Stack:  <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Microsoft_Office_Power_Query_logo.svg" width="40"/>
   <br>
 🔹 Focus: Revenue, Occupancy, Property KPIs  <br>
 🔹 Download: `Hotel_Dashboard.pbix`
