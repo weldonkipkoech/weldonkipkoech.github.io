@@ -20,7 +20,6 @@ Repo / Demo: https://www.kaggle.com/code/weldonsitienei/weldon-kipkoech-eda
 
 <details>
   <summary><b>🏨 Hotel Performance Analytics Dashboard</b></summary>
-<img src="assets/hotel.png" width="400" alt="Hotel Dashboard"/>
 🔹Tech Stack:<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="26"/> Power BI    
 <br>
