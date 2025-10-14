@@ -112,6 +112,6 @@ icon: fas fa-flask
  </section>
 
 <div class="footer-note">
-      Tip: click <em>Start</em> to scaffold the repository with a README, notebook, and sample data.
+      <a class="btn ghost" href="#" title="Start Challenge">Checklist</a>
     </div>
   </div>
