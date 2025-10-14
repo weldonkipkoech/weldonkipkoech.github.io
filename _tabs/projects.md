@@ -1,3 +1,8 @@
+---
+layout: default
+title: "RESUME"
+icon: fas fa-Hammer and Wrench
+---
 ### 🚀 Projects
 
 <details>
