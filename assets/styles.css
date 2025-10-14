@@ -159,18 +159,17 @@
     font-size: 13px;
     text-align: center;
   }
-    :root{
-      --bg-1: #0b1020;
-      --bg-2: #071026;
-      --card: rgba(255,255,255,0.03);
-      --muted: #9fb0c8;
-      --accent-a: #6c8cff;
-      --accent-b: #00e0c0;
-      --glass: rgba(255,255,255,0.03);
-      --radius: 14px;
-      --max: 1100px;
-    }
-
+:root{
+  --bg-1: #05070f;         /* darker base */
+  --bg-2: #030814;         /* deeper contrast */
+  --card: rgba(255,255,255,0.015);  /* subtler glass effect */
+  --muted: #7e8da3;        /* dimmed text tone */
+  --accent-a: #4f6cff;     /* cooler, darker blue */
+  --accent-b: #00b29a;     /* dark-teal accent */
+  --glass: rgba(255,255,255,0.02);  /* barely visible glass layer */
+  --radius: 14px;
+  --max: 1100px;
+}
     *{box-sizing:border-box}
     html,body{height:100%}
     body{
