@@ -63,6 +63,4 @@ icon: fas fa-rocket
     <li>🏢 <strong>6+ Luxury Hotel Properties</strong> analyzed</li>
   </ul>
 </div>
-strong> analyzed</li>
-  </ul>
-</div>
+
