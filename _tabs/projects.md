@@ -46,7 +46,7 @@ icon: fas fa-rocket
 
   <span class="section-label">🔗 Links:</span>
   <p>
-    <a href="https://www.kaggle.com/code/weldonsitienei/Business-Intelligence_POWER-BI" target="_blank">📊 View on Kaggle</a> &nbsp;|&nbsp;
+    <a href="https://www.kaggle.com/code/weldonsitienei/Business-Intelligence_POWER-BI" target="_blank">📊 View on Github</a> &nbsp;|&nbsp;
     <a href="https://drive.google.com/file/d/1LxvqWB4g5RawkIOVFaLrMnh07KIFDw0N/view?usp=drive_link" target="_blank">💾 Download PBIX File</a>
   </p>
 
