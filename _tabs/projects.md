@@ -1,32 +1,38 @@
 ---
 layout: default
-title: "RESUME"
+title: "PROJECTS"
 icon: fas fa-Hammer and Wrench
 ---
-### 🚀 Projects
-
-<details>
-  <summary><b>Exploratory Titanic Dataset EDA</b></summary>
-
-- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
-- **Description:** Performed in-depth analysis of the Titanic dataset to uncover survival trends based on gender, class, and age. Created visualizations and derived insights.  
-- **Repo / Demo:** https://github.com/weldonkipkoech/titanic-eda  
-</details>
+###  Projects
 
 
-<details>
-  <summary><b>🏨 Hotel Performance Analytics Dashboard</b></summary>
+  <h1>Exploratory Titanic Dataset EDA</h1> <br>
 
-🔹 **Tech Stack:** Power BI, DAX, Power Query  
-🔹 **Focus:** Revenue, Occupancy, Property KPIs  
-🔹 **Download:** `Hotel_Dashboard.pbix`
+Tech Stack:<br>
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="40"/> 
+<img src="https://pandas.pydata.org/static/img/pandas.svg" width="40"/> 
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="40"/> 
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/>  <br>
+Performed in-depth analysis of the Titanic dataset to uncover survival trends based on gender, class, and age. Created visualizations and derived insights. <br>
+Repo / Demo: https://github.com/weldonkipkoech/titanic-eda  
+ <br> <br> 
 
-**📈 Key Highlights:**
-- 1.68B+ revenue analysis
-- ADR: 12,696 | RevPAR: 7,337
-- Occupancy: 57.79%
-- Property-wise performance comparisons
 
-**⭐ Metrics Covered:** ADR, RevPAR, DBRN, DSRN, DURN, Cancellation & Realization Rates
+  <h1>🏨 Hotel Performance Analytics Dashboard</h1><br>
 
-</details>
+🔹 Tech Stack:  <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" width="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Microsoft_Office_Power_Query_logo.svg" width="40"/>
+  <br>
+🔹 Focus: Revenue, Occupancy, Property KPIs  <br>
+🔹 Download: `Hotel_Dashboard.pbix`
+<br>
+📈 Key Highlights:<br>
+- 1.68B+ revenue analysis<br>
+- ADR: 12,696 | RevPAR: 7,337<br>
+- Occupancy: 57.79%<br>
+- Property-wise performance comparisons<br>
+
+⭐ Metrics Covered: ADR, RevPAR, DBRN, DSRN, DURN, Cancellation & Realization Rates
+
