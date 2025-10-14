@@ -6,8 +6,9 @@ icon: "fas fa-rocket"
 
 ### 🚀 Projects
 
-<details>
-  📊 Exploratory Titanic Dataset EDA
+
+  <h1>
+    📊 Exploratory Titanic Dataset EDA</h1>
 
 **🔹 Tech Stack:** <br>
 <img src="https://www.python.org/static/community_logos/python-logo.png" width="26"/> Python  
@@ -20,10 +21,10 @@ Performed in-depth analysis of the Titanic dataset to uncover survival trends ba
 
 **🔗 Repo / Demo:**
 [🌐 View on Kaggle](https://www.kaggle.com/code/weldonsitienei/weldon-kipkoech-eda)
-</details>
 
-<details>
-🏨 Hotel Performance Analytics Dashboard
+
+
+<h1>🏨 Hotel Performance Analytics Dashboard</h1>
 
 **🔹 Tech Stack:** <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="26"/> Power BI  <br>
@@ -44,4 +45,4 @@ A visually rich dashboard analyzing hotel revenue, occupancy, performance metric
 - ⭐ **70.14% Realization Rate**
 - 📈 **Interactive filters** for city, room type, and date ranges
 - 🏢 **6+ Luxury Hotel Properties** analyzed
-</details>
+
