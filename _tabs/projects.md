@@ -6,7 +6,7 @@ icon: fas fa-Hammer and Wrench
 ###  Projects
 
 <details>
-  <summary><h1><b>Exploratory Titanic Dataset EDA</b></h1></summary>
+  <summary><b>Exploratory Titanic Dataset EDA</b></summary>
 
 Tech Stack:<br>
 <img src="https://www.python.org/static/community_logos/python-logo.png" width="40"/> 
@@ -18,7 +18,7 @@ Repo / Demo: https://github.com/weldonkipkoech/Titanic-Exploratory-Data-Analysis
 </details>
 
 <details>
-  <summary><b><h1>🏨 Hotel Performance Analytics Dashboard<h1></b></summary>
+  <summary><b>🏨 Hotel Performance Analytics Dashboard</b></summary>
 
 🔹 Tech Stack:  <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/> 
