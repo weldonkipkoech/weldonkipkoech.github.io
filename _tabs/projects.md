@@ -3,6 +3,8 @@ layout: default
 title: "PROJECTS"
 icon: fas fa-rocket
 ---
+<h1 style="margin-bottom: 30px;">🚀 Projects</h1>
+
 <!-- Titanic Project -->
 <div class="project-container">
   <div class="project-title">📊 Exploratory Titanic Dataset EDA</div>
@@ -58,6 +60,9 @@ icon: fas fa-rocket
     <li>💰 <strong>12,696 Average Daily Rate (ADR)</strong></li>
     <li>⭐ <strong>70.14% Realization Rate</strong></li>
     <li>📈 <strong>Interactive filters</strong> for city, room type, and date ranges</li>
+    <li>🏢 <strong>6+ Luxury Hotel Properties</strong> analyzed</li>
+  </ul>
+</div>
     <li>🏢 <strong>6+ Luxury Hotel Properties</strong> analyzed</li>
   </ul>
 </div>
