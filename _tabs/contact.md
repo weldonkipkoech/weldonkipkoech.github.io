@@ -9,9 +9,9 @@ icon: fas fa-phone
 <div class="colorful-container">
       <div class="section-title">🔗 Connect With Me</div>
       <div class="contact-links">
-        <a href="mailto:weldonkipkoech@email.com">Email</a>
-        <a href="https://github.com/weldonkipkoech" target="_blank">GitHub</a>
-        <a href="https://www.kaggle.com/weldonsitienei" target="_blank">Kaggle</a>
+        <a href="mailto:weldonkipkoech@email.com" width"200">Email</a><br>
+        <a href="https://github.com/weldonkipkoech" width"200" target="_blank">GitHub</a><br>
+        <a href="https://www.kaggle.com/weldonsitienei" width"200" target="_blank">Kaggle</a>
       </div>
 <br>
 Thank You ,Looking forward to your response<br>
