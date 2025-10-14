@@ -11,9 +11,9 @@ icon: fas fa-flask
         <p class="lead">Practical data science skills end-to-end.</p>
       </div>
     </header>
-<div class="colorful-container" >
+
 <section class="grid" aria-label="Top 3 lab challenges">
-<article aria-labelledby="eda-title">
+<article class="colorful-container">
         <div class="head">
           <div class="icon-circle">🧭</div>
           <div>
@@ -39,12 +39,12 @@ icon: fas fa-flask
           <div class="kpi">📈 <strong>Visual Insights</strong></div>
           <div class="kpi">📝 <strong>Report</strong></div>
         </div>
-</div>
+
 
 </article>
-<div class="colorful-container" >
 
-<article aria-labelledby="predictive-title">
+
+<article class="colorful-container">
         <div class="head">
           <div class="icon-circle">🤖</div>
           <div>
@@ -69,11 +69,11 @@ icon: fas fa-flask
           <div class="kpi">📊 <strong>Modeling</strong></div>
           <div class="kpi">📐 <strong>Evaluation</strong></div>
         </div>
-</div>
+
  </article>
 
-<div class="colorful-container" >
-<article aria-labelledby="dashboard-title">
+
+<article class="colorful-container">
         <div class="head">
           <div class="icon-circle">📊</div>
           <div>
@@ -96,7 +96,7 @@ icon: fas fa-flask
           <div class="kpi">🏨 <strong>KPIs & Trends</strong></div>
           <div class="kpi">🔎 <strong>Drill-downs</strong></div>
           <div class="kpi">📁 <strong>PBIX / Dashboard</strong></div>
-        </div></div>
+        </div>
 
  </article>
 
