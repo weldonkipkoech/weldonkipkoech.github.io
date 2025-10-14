@@ -11,10 +11,10 @@ icon: fas fa-rocket
 
   <span class="section-label">🔹 Tech Stack:</span>
 <div class="tech-stack">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" width="24px" alt="Python logo"/> Python
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="24px" alt="Pandas logo"/> Pandas
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="24px" alt="Matplotlib logo"/> Matplotlib
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="24px" alt="Seaborn logo"/> Seaborn
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="100" alt="Python logo"/> Python
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100" alt="Pandas logo"/> Pandas
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="100" alt="Matplotlib logo"/> Matplotlib
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" alt="Seaborn logo"/> Seaborn
 </div>
 
   <span class="section-label">📝 Description:</span>
@@ -35,7 +35,7 @@ icon: fas fa-rocket
 
   <span class="section-label">🔹 Tech Stack:</span>
   <div class="tech-stack">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="24px" alt="Power BI logo"/> Power BI
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="100" alt="Power BI logo"/> Power BI
   </div>
 
   <span class="section-label">📝 Description:</span>
