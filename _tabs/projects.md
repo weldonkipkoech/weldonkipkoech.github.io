@@ -98,20 +98,30 @@ icon: fas fa-rocket
 </div>
 <div class="project-container">
   <div class="project-title"><h1>🏠 Regression Models (Linear & Multivariate)</h1></div>
-  A data science project applying <strong>Linear Regression</strong> to predict housing prices based on features such as area, number of bedrooms, and age. 
-  The project demonstrates both <strong>Univariate</strong> and <strong>Multivariate Regression</strong> techniques using Python’s <code>scikit-learn</code>, <code>pandas</code>, and <code>matplotlib</code>.<br>
-  <br>
-  <b>✨ Key Highlights:</b>
+  
+  <p>
+    A data science project applying <strong>Linear Regression</strong> to predict housing prices based on features such as area, number of bedrooms, and age. 
+    The project demonstrates both <strong>Univariate</strong> and <strong>Multivariate Regression</strong> techniques using Python’s 
+    <code>scikit-learn</code>, <code>pandas</code>, and <code>matplotlib</code>.
+  </p>
+
+  <span class="section-label">✨ Key Highlights:</span>
   <ul>
     <li>✅ Built regression models for accurate house price prediction.</li>
     <li>📊 Evaluated model performance using MAE, MSE, RMSE, and R² metrics.</li>
     <li>📈 Visualized regression lines and predicted vs actual value plots.</li>
     <li>🧹 Performed thorough data cleaning, outlier detection, and train-test split.</li>
   </ul>
-  <a href="https://colab.research.google.com/drive/1Qz4xi_J7Ul4QsjTKGcfzV2xIFfWO_WDr?usp=sharing" target="_blank" rel="noopener">🌐 View Code on Google Colab</a> &nbsp;|&nbsp;<br>
-   <a href="assets/Weldon_Kipkoech-CS-DA02-25064-Regression Models.pdf" 
-     target="_blank" rel="noopener">📄 View Report (PDF)</a>
+
+  <span class="section-label">🔗 Repo / Demo:</span>
+  <p>
+    <a href="https://colab.research.google.com/drive/1Qz4xi_J7Ul4QsjTKGcfzV2xIFfWO_WDr?usp=sharing" 
+       target="_blank" rel="noopener">🌐 View Code on Google Colab</a> &nbsp;|&nbsp;
+    <a href="assets/Weldon_Kipkoech-CS-DA02-25064-Regression Models.pdf" 
+       target="_blank" rel="noopener">📄 View Report (PDF)</a>
+  </p>
 </div>
+
 
 
 
