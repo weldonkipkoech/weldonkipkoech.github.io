@@ -62,5 +62,39 @@ icon: fas fa-rocket
     <li>📈 <strong>Interactive filters</strong> for city, room type, and date ranges</li>
     <li>🏢 <strong>6+ Luxury Hotel Properties</strong> analyzed</li>
   </ul>
+
 </div>
+<!-- HR Dashboard Project -->
+<div class="project-container">
+  <div class="project-title"><h1>📈 HR Analytics Dashboard (Tableau)</h1></div>
+
+  <span class="section-label">🔹 Tech Stack:</span>
+  <div class="tech-stack">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="100" alt="Tableau logo"/> Tableau
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60" alt="Git logo"/> Git
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub logo"/> GitHub
+  </div>
+
+  <span class="section-label">📝 Description:</span>
+  <p>
+    Designed and developed an interactive <strong>HR Analytics Dashboard</strong> in Tableau to visualize key employee metrics such as turnover, department performance, and satisfaction levels.
+    The dashboard enables data-driven HR decision-making by providing clear insights into workforce trends.
+  </p>
+
+  <span class="section-label">📊 Key Insights:</span>
+  <ul>
+    <li>Identified departments with the highest attrition rates.</li>
+    <li>Analyzed correlations between job satisfaction and employee performance.</li>
+    <li>Created dynamic filters for gender, department, and job role comparisons.</li>
+  </ul>
+
+  <span class="section-label">🔗 Repo / Demo:</span>
+  <p>
+    <a href="https://github.com/weldonkipkoech/Data-Visualization-with-Tableau/blob/main/HR%20DASHBOARD.twbx" target="_blank">📁 Download Tableau File (.twbx)</a><br>
+    <a href="https://public.tableau.com/views/HRDashboard_17607540673410/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">🌐 View on Tableau Public</a>
+  </p>
+
+  <img src="assets/images/hr_dashboard_preview.png" alt="HR Dashboard Preview" width="100%" style="border-radius: 10px; margin-top: 10px;"/>
+</div>
+
 
