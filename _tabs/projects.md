@@ -96,10 +96,40 @@ icon: fas fa-rocket
   </p>
 
 </div>
+<!-- Regression Models Project -->
+<div class="project-container">
+  <div class="project-title"><h1>🏠 Regression Models (Linear & Multivariate)</h1></div>
 
+  <span class="section-label">🔹 Tech Stack:</span>
+  <div class="tech-stack">
+    <img src="https://www.python.org/static/community_logos/python-logo.png" width="100" alt="Python logo"/> Python
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100" alt="Pandas logo"/> Pandas
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100" alt="Scikit-learn logo"/> Scikit-learn
+    <img src="https://matplotlib.org/_static/images/logo2.svg" width="100" alt="Matplotlib logo"/> Matplotlib
+  </div>
 
+  <span class="section-label">📝 Description:</span>
+  <p>
+    This project applies <strong>Linear Regression</strong> to predict housing prices based on features such as area, number of bedrooms, and age.
+    It demonstrates both <strong>Univariate</strong> and <strong>Multivariate Regression</strong> techniques using Python libraries like
+    <code>scikit-learn</code>, <code>pandas</code>, and <code>matplotlib</code>.
+  </p>
+
+  <span class="section-label">📊 Key Insights:</span>
+  <ul>
+    <li>✅ Built regression models for accurate house price prediction.</li>
+    <li>📊 Evaluated performance using MAE, MSE, RMSE, and R² metrics.</li>
+    <li>📈 Visualized regression lines and predicted vs actual values.</li>
+    <li>🧹 Performed data cleaning, outlier detection, and train-test splitting.</li>
+  </ul>
+
+  <span class="section-label">🔗 Repo / Demo:</span>
+  <p>
+    <a href="https://colab.research.google.com/drive/1Qz4xi_J7Ul4QsjTKGcfzV2xIFfWO_WDr?usp=sharing" target="_blank">🌐 View Code on Google Colab</a><br>
+    <a href="assets/Weldon_Kipkoech-CS-DA02-25064-Regression Models.pdf" target="_blank">📄 View Report (PDF)</a>
   </p>
 </div>
+
 
 
 
