@@ -92,9 +92,10 @@ icon: fas fa-rocket
   <p>
     <a href="https://github.com/weldonkipkoech/Data-Visualization-with-Tableau/blob/main/HR%20DASHBOARD.twbx" target="_blank">📁 Download Tableau File (.twbx)</a><br>
     <a href="https://public.tableau.com/views/HRDashboard_17607540673410/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">🌐 View on Tableau Public</a>
-  </p>
+ 
 
   <img src="assets/HR Dashboard.twbx.png"  width="100%" style="border-radius: 10px; margin-top: 10px;"/>
+   </p>
 </div>
 
 
