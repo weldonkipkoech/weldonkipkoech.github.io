@@ -96,8 +96,8 @@ icon: fas fa-rocket
   </p>
 
 </div>
-<div class="featured-project">
-  <b>🏠 Regression Models (Linear & Multivariate):</b><br>
+<div class="project-container">
+  <div class="project-title"><h1>🏠 Regression Models (Linear & Multivariate)</h1></div>
   A data science project applying <strong>Linear Regression</strong> to predict housing prices based on features such as area, number of bedrooms, and age. 
   The project demonstrates both <strong>Univariate</strong> and <strong>Multivariate Regression</strong> techniques using Python’s <code>scikit-learn</code>, <code>pandas</code>, and <code>matplotlib</code>.<br>
   <br>
@@ -108,7 +108,7 @@ icon: fas fa-rocket
     <li>📈 Visualized regression lines and predicted vs actual value plots.</li>
     <li>🧹 Performed thorough data cleaning, outlier detection, and train-test split.</li>
   </ul>
-  <a href="https://colab.research.google.com/drive/1Qz4xi_J7Ul4QsjTKGcfzV2xIFfWO_WDr?usp=sharing" target="_blank" rel="noopener">🌐 View Code on Google Colab</a> &nbsp;|&nbsp;
+  <a href="https://colab.research.google.com/drive/1Qz4xi_J7Ul4QsjTKGcfzV2xIFfWO_WDr?usp=sharing" target="_blank" rel="noopener">🌐 View Code on Google Colab</a> &nbsp;|&nbsp;<br>
   <a href="https://github.com/weldonkipkoech/Data-Science-Projects/blob/main/Weldon_Kipkoech-CS-DA02-25064-Regression%20Models.pdf" target="_blank" rel="noopener">📄 View Report (PDF)</a>
 </div>
 
