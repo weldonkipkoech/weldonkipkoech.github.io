@@ -94,7 +94,6 @@ icon: fas fa-rocket
     <a href="https://public.tableau.com/views/HRDashboard_17607540673410/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">🌐 View on Tableau Public</a>
  
   </p>
-  <img src="assets/dashboard.png"  width="100%" style="border-radius: 10px; margin-top: 10px;"/>
 
 </div>
 
