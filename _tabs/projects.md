@@ -124,7 +124,6 @@ icon: fas fa-rocket
 
   <span class="section-label">🔗 Repo / Demo:</span>
   <p>
-    <a href="assets/Weldon_Kipkoech-CS-DA02-25064-Regression.pdf" target="_blank" rel="noopener">📄 View Report (PDF)</a><br>
     <a href="https://colab.research.google.com/drive/1Qz4xi_J7Ul4QsjTKGcfzV2xIFfWO_WDr?usp=sharing" target="_blank" rel="noopener">🌐 View Code on Google Colab</a>
   </p>
 </div>
