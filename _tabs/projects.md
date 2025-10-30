@@ -10,12 +10,12 @@ icon: fas fa-rocket
   <div class="project-title"><h1>📊 Exploratory Titanic Dataset EDA</h1></div>
 
   <span class="section-label">🔹 Tech Stack:</span>
-<div class="tech-stack">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" width="100" alt="Python logo"/> Python
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100" alt="Pandas logo"/> Pandas
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="100" alt="Matplotlib logo"/> Matplotlib
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" alt="Seaborn logo"/> Seaborn
-</div>
+  <div class="tech-stack">
+    <img src="https://www.python.org/static/community_logos/python-logo.png" width="100" alt="Python logo"/> Python
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100" alt="Pandas logo"/> Pandas
+    <img src="https://matplotlib.org/_static/images/logo2.svg" width="100" alt="Matplotlib logo"/> Matplotlib
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" alt="Seaborn logo"/> Seaborn
+  </div>
 
   <span class="section-label">📝 Description:</span>
   <p>
@@ -25,7 +25,7 @@ icon: fas fa-rocket
 
   <span class="section-label">🔗 Repo / Demo:</span>
   <p>
-    <a href="https://www.kaggle.com/code/weldonsitienei/weldon-kipkoech-eda" target="_blank">🌐 View on Kaggle</a>
+    <a href="https://www.kaggle.com/code/weldonsitienei/weldon-kipkoech-eda" target="_blank" rel="noopener">🌐 View on Kaggle</a>
   </p>
 </div>
 
@@ -46,8 +46,8 @@ icon: fas fa-rocket
 
   <span class="section-label">🔗 Links:</span>
   <p>
-    <a href="https://www.kaggle.com/code/weldonsitienei/Business-Intelligence_POWER-BI" target="_blank">📊 View on Github</a> &nbsp;|&nbsp;
-    <a href="https://drive.google.com/file/d/1LxvqWB4g5RawkIOVFaLrMnh07KIFDw0N/view?usp=drive_link" target="_blank">💾 Download PBIX File</a>
+    <a href="https://github.com/weldonkipkoech/Business-Intelligence_POWER-BI" target="_blank" rel="noopener">📊 View on GitHub</a> &nbsp;|&nbsp;
+    <a href="https://drive.google.com/file/d/1LxvqWB4g5RawkIOVFaLrMnh07KIFDw0N/view?usp=drive_link" target="_blank" rel="noopener">💾 Download PBIX File</a>
   </p>
 
   <span class="section-label">⭐ Metrics Covered:</span>
@@ -62,8 +62,8 @@ icon: fas fa-rocket
     <li>📈 <strong>Interactive filters</strong> for city, room type, and date ranges</li>
     <li>🏢 <strong>6+ Luxury Hotel Properties</strong> analyzed</li>
   </ul>
-
 </div>
+
 <!-- HR Dashboard Project -->
 <div class="project-container">
   <div class="project-title"><h1>📈 HR Analytics Dashboard (Tableau)</h1></div>
@@ -90,12 +90,11 @@ icon: fas fa-rocket
 
   <span class="section-label">🔗 Repo / Demo:</span>
   <p>
-    <a href="https://github.com/weldonkipkoech/Data-Visualization-with-Tableau/blob/main/HR%20DASHBOARD.twbx" target="_blank">📁 Download Tableau File (.twbx)</a><br>
-    <a href="https://public.tableau.com/views/HRDashboard_17607540673410/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">🌐 View on Tableau Public</a>
- 
+    <a href="https://github.com/weldonkipkoech/Data-Visualization-with-Tableau/blob/main/HR%20DASHBOARD.twbx" target="_blank" rel="noopener">📁 Download Tableau File (.twbx)</a><br>
+    <a href="https://public.tableau.com/views/HRDashboard_17607540673410/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener">🌐 View on Tableau Public</a>
   </p>
-
 </div>
+
 <!-- Regression Models Project -->
 <div class="project-container">
   <div class="project-title"><h1>🏠 Regression Models (Linear & Multivariate)</h1></div>
@@ -125,12 +124,7 @@ icon: fas fa-rocket
 
   <span class="section-label">🔗 Repo / Demo:</span>
   <p>
-    <a href="https://colab.research.google.com/drive/1Qz4xi_J7Ul4QsjTKGcfzV2xIFfWO_WDr?usp=sharing" target="_blank">🌐 View Code on Google Colab</a><br>
-    <a href="assets/Weldon_Kipkoech-CS-DA02-25064-Regression Models.pdf" target="_blank">📄 View Report (PDF)</a>
+    <a href="https://colab.research.google.com/drive/1Qz4xi_J7Ul4QsjTKGcfzV2xIFfWO_WDr?usp=sharing" target="_blank" rel="noopener">🌐 View Code on Google Colab</a>
   </p>
 </div>
-
-
-
-
 
