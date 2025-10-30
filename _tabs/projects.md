@@ -119,6 +119,7 @@ icon: fas fa-rocket
        target="_blank" rel="noopener">🌐 View Code on Google Colab</a> &nbsp;|&nbsp;
     <a href="assets/Weldon_Kipkoech-CS-DA02-25064-Regression Models.pdf" 
        target="_blank" rel="noopener">📄 View Report (PDF)</a>
+
   </p>
 </div>
 
