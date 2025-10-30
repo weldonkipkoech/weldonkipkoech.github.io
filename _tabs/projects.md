@@ -109,7 +109,8 @@ icon: fas fa-rocket
     <li>🧹 Performed thorough data cleaning, outlier detection, and train-test split.</li>
   </ul>
   <a href="https://colab.research.google.com/drive/1Qz4xi_J7Ul4QsjTKGcfzV2xIFfWO_WDr?usp=sharing" target="_blank" rel="noopener">🌐 View Code on Google Colab</a> &nbsp;|&nbsp;<br>
-  <a href="assets/Weldon_Kipkoech-CS-DA02-25064-Regression Models.pdf" target="_blank" rel="noopener">📄 View Report (PDF)</a>
+   <a href="assets/Weldon_Kipkoech-CS-DA02-25064-Regression Models.pdf" 
+     target="_blank" rel="noopener">📄 View Report (PDF)</a>
 </div>
 
 
