@@ -2,7 +2,6 @@
 layout: default
 title: CONTACT ME
 icon: fas fa-phone
-description: "Get in touch with me — I’d love to connect and collaborate on exciting projects!"
 ---
 
 # 💫 Let's Connect!
@@ -16,10 +15,10 @@ I'm always excited to hear about **new opportunities**, collaborate on **innovat
 <div class="contact-links">
 
 📧 Email: 
-<a href="mailto:sitieneiweldon04@gmail.com" target="_blank">sitieneiweldon04@gmail.com</a><br>
+<a href="mailto:sitieneiweldon04@gmail.com" target="_blank">sitieneiweldon04@gmail.com</a> <br>
 
 💼 LinkedIn: 
-<a href="https://www.linkedin.com/in/weldon-kipkoech-385366254" target="_blank">linkedin.com/in/weldon-kipkoech-385366254</a><br>
+<a href="https://www.linkedin.com/in/weldon-kipkoech-385366254" target="_blank">linkedin.com/in/weldon-kipkoech-385366254</a> <br>
 
 🐙 GitHub:  
 <a href="https://github.com/weldonkipkoech" target="_blank">github.com/weldonkipkoech</a><br>
