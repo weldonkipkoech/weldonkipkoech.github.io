@@ -16,16 +16,16 @@ I'm always excited to hear about **new opportunities**, collaborate on **innovat
 <div class="contact-links">
 
 📧 **Email:**  
-<a href="mailto:sitieneiweldon04@gmail.com" target="_blank">sitieneiweldon04@gmail.com</a>  
+<a href="mailto:sitieneiweldon04@gmail.com" target="_blank">sitieneiweldon04@gmail.com</a> <br>
 
 💼 **LinkedIn:**  
-<a href="https://www.linkedin.com/in/weldonkipkoech" target="_blank">linkedin.com/in/weldonkipkoech</a>  
+<a href="https://www.linkedin.com/in/weldonkipkoech" target="_blank">linkedin.com/in/weldonkipkoech</a>  <br>
 
 🐙 **GitHub:**  
-<a href="https://github.com/weldonkipkoech" target="_blank">github.com/weldonkipkoech</a>  
+<a href="https://github.com/weldonkipkoech" target="_blank">github.com/weldonkipkoech</a>  <br>
 
 🐦 **Twitter/X:**  
-<a href="https://twitter.com/weldonkipkoech" target="_blank">@weldonkipkoech</a>  
+<a href="https://twitter.com/weldonkipkoech" target="_blank">@weldonkipkoech</a> <br>
 
 </div>
 
