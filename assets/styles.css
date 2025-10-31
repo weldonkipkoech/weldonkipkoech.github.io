@@ -1,4 +1,64 @@
-  body {
+<style>
+  /* Page Styling */
+  h1, h2 {
+    font-family: 'Bungee', cursive, sans-serif;
+    color: white;
+    text-align: center;
+  }
+
+  .colorful-container {
+    text-align: center;
+    background: linear-gradient(135deg, #332d64, #ffd36d);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px #00000033;
+    max-width: 700px;
+    margin: 30px auto;
+  }
+
+  .section-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: white;
+  }
+
+  .contact-links {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+  }
+
+  /* 🔹 Icon Color Control */
+  .contact-links img {
+    width: 50px;
+    height: 50px;
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(180deg);
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+
+  /* 🔹 Hover Effect: Slight color + zoom */
+  .contact-links img:hover {
+    transform: scale(1.2);
+    filter: invert(84%) sepia(80%) saturate(1000%) hue-rotate(40deg);
+  }
+
+  /* Responsive */
+  @media (max-width: 600px) {
+    .colorful-container {
+      padding: 20px;
+    }
+  }
+
+  p {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+  }
+</style>
+
+body {
     background: #0d1117;
     color: #e6edf3;
     font-family: "Inter", sans-serif;
