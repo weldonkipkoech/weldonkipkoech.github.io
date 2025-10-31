@@ -40,15 +40,5 @@ I'm always excited to hear about **new opportunities**, collaborate on **innovat
 Feel free to reach out — I usually respond within a day.  
 > “Collaboration sparks innovation — let’s make ideas come alive.”
 
----
 
-<style>
-.contact-links a {
-  color: var(--primary);
-  text-decoration: none;
-  font-weight: 600;
-}
-.contact-links a:hover {
-  text-decoration: underline;
-}
-</style>
+
