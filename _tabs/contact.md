@@ -1,5 +1,54 @@
---- 
-layout: default 
-title: CONTACT ME 
-icon: fas fa-phone 
---- 
+---
+layout: default
+title: "CONTACT ME"
+icon: fas fa-phone
+description: "Get in touch with me — I’d love to connect and collaborate on exciting projects!"
+---
+
+# 💫 Let's Connect!
+
+I'm always excited to hear about **new opportunities**, collaborate on **innovative projects**, or simply **chat about technology**.
+
+---
+
+## 🔗 Connect With Me
+
+<div class="contact-links">
+
+📧 **Email:**  
+<a href="mailto:sitieneiweldon04@gmail.com" target="_blank">sitieneiweldon04@gmail.com</a>  
+
+💼 **LinkedIn:**  
+<a href="https://www.linkedin.com/in/weldonkipkoech" target="_blank">linkedin.com/in/weldonkipkoech</a>  
+
+🐙 **GitHub:**  
+<a href="https://github.com/weldonkipkoech" target="_blank">github.com/weldonkipkoech</a>  
+
+🐦 **Twitter/X:**  
+<a href="https://twitter.com/weldonkipkoech" target="_blank">@weldonkipkoech</a>  
+
+</div>
+
+---
+
+## 🌍 Location
+📍 *Nairobi, Kenya*  
+
+---
+
+### 💬 Let’s Build Something Great Together!
+Feel free to reach out — I usually respond within a day.  
+> “Collaboration sparks innovation — let’s make ideas come alive.”
+
+---
+
+<style>
+.contact-links a {
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 600;
+}
+.contact-links a:hover {
+  text-decoration: underline;
+}
+</style>
