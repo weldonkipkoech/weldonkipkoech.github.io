@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CONTACT ME"
+title: CONTACT ME
 icon: fas fa-phone
 description: "Get in touch with me — I’d love to connect and collaborate on exciting projects!"
 ---
