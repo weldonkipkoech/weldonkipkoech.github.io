@@ -1,3 +1,11 @@
+.contact-links a {
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 600;
+}
+.contact-links a:hover {
+  text-decoration: underline;
+}
 body {
     background: #0d1117;
     color: #e6edf3;
