@@ -13,11 +13,11 @@ icon: fas fa-phone
   <div class="contact-links">
     <a href="mailto:weldonkipkoech@email.com" target="_blank">
       <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email">
-    </a>
+    </a><br>
 
   <a href="https://github.com/weldonkipkoech" target="_blank">
       <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub">
-    </a>
+    </a><br>
 
   <a href="https://www.kaggle.com/weldonsitienei" target="_blank">
       <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle">
